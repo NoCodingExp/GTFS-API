@@ -1,0 +1,8 @@
+{
+    "mongoUrl": "mongodb://localhost:27017/gtfs",
+    "agencies": [
+    {
+      "agency_key": "SNCFT",
+      "path": "sncft/"
+    }]
+  }
